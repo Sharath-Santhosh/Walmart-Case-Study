@@ -1,4 +1,4 @@
-# Walmart-Case-Study
+# Walmart-case-study
 
 Walmart Case Study [Confidence Interval and CLT] - 
 
